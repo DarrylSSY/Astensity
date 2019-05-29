@@ -20,3 +20,7 @@ plugins/RotatoR/config.yml
 plugins/SpawnerProtection/Spawners.yml
 plugins/WorldEdit/schematics/
 plugins/WorldGuard/worlds/
+src
+world
+world_nether
+world_the_end
