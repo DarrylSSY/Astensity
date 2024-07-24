@@ -6,6 +6,8 @@ Mods:
 - Added Origins
 - Added RandomTP (Server)
 - Added CreeperOverhaul
+- Added Scorchful
+- Added Frostiful
 
 Config:
 - Set default number of homes from 1 to 2
