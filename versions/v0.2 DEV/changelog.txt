@@ -11,5 +11,6 @@ Mods:
 
 Config:
 - Set default number of homes from 1 to 2
+- Change title screen panorama for nostalgia
 
 Please let us know on Discord if you run into any issues
