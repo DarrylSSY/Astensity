@@ -1,0 +1,11 @@
+[Second Development Preview]
+FABRIC 0.16.0
+
+Mods:
+- Added Proximity Text Chat
+- Added Origins
+
+Config:
+- Set default number of homes from 1 to 2
+
+Please let us know on Discord if you run into any issues
