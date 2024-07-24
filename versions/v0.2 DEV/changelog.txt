@@ -4,6 +4,7 @@ FABRIC 0.16.0
 Mods:
 - Added Proximity Text Chat
 - Added Origins
+- Added RandomTP (Server)
 
 Config:
 - Set default number of homes from 1 to 2
