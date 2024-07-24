@@ -8,6 +8,7 @@ Mods:
 - Added CreeperOverhaul
 - Added Scorchful
 - Added Frostiful
+- Added Voice Chat Interaction
 
 Config:
 - Set default number of homes from 1 to 2
