@@ -2,7 +2,7 @@
 FABRIC 0.16.0
 
 Mods:
-- Added Proximity Text Chat
+- Added Simple Voice Chat
 - Added Origins
 - Added RandomTP (Server)
 - Added CreeperOverhaul
