@@ -1,1 +1,31 @@
+[Third Development Preview]
+FABRIC 0.16.0
 
+Mods:
+- Updated Accessories, Accessories Trinkets Compat Layer
+- Updated Bosses of Mass Destruction
+- Updated Collective
+- Updated Controlling
+- Updated Easy Shulker Boxes
+- Updated FabricBetterGrass
+- Updated Forge Config API Port
+- Updated Geophilic
+- Updated IJM's Tweaks
+- Updated Inventory HUD +
+- Updated Jade
+- Updated JEI
+- Updated Lithostitched
+- Updated ModernFix
+- Updated Polymer
+- Updated Puzzles Lib
+- Updated Repurposed Structures
+- Updated ScalableLux
+- Updated Starter Kit
+- Updated Tom's Simple Storage Mod
+- Updated Universal Graves
+- Updated Village Spawn Point
+
+Config:
+-
+
+Please let us know on Discord if you run into any issues
