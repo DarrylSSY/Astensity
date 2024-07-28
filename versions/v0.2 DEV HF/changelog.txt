@@ -7,6 +7,10 @@ Mods:
 - Updated Bosses of Mass Destruction
 - Updated Collective
 - Updated Controlling
+- Updated CraterLib
+- Updated Dehydration
+- Updated Double Doors
+- Updated DragonLoot
 - Updated Easy Shulker Boxes
 - Updated FabricBetterGrass
 - Updated Forge Config API Port
@@ -21,6 +25,7 @@ Mods:
 - Updated Puzzles Lib
 - Updated Repurposed Structures
 - Updated ScalableLux
+- Updated Scorchful
 - Updated Starter Kit
 - Updated Tom's Simple Storage Mod
 - Updated Universal Graves
