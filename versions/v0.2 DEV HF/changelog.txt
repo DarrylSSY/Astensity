@@ -2,6 +2,7 @@
 FABRIC 0.16.0
 
 Mods:
+- Added ThermooPatches
 - Updated Accessories, Accessories Trinkets Compat Layer
 - Updated Bosses of Mass Destruction
 - Updated Collective
@@ -24,8 +25,5 @@ Mods:
 - Updated Tom's Simple Storage Mod
 - Updated Universal Graves
 - Updated Village Spawn Point
-
-Config:
--
 
 Please let us know on Discord if you run into any issues
