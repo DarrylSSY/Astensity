@@ -30,5 +30,6 @@ Mods:
 - Updated Tom's Simple Storage Mod
 - Updated Universal Graves
 - Updated Village Spawn Point
+- Removed EMI and EMI Professions temporarily for compatibility fix
 
 Please let us know on Discord if you run into any issues
