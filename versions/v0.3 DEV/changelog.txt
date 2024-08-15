@@ -2,30 +2,22 @@
 FABRIC 0.16.0
 
 Mods:
-- Updated Accessories, Accessories Trinkets Compat Layer
-- Updated Bosses of Mass Destruction
-- Updated Collective
-- Updated Controlling
-- Updated Easy Shulker Boxes
-- Updated FabricBetterGrass
-- Updated Forge Config API Port
-- Updated Geophilic
-- Updated IJM's Tweaks
-- Updated Inventory HUD +
-- Updated Jade
-- Updated JEI
-- Updated Lithostitched
-- Updated ModernFix
-- Updated Polymer
-- Updated Puzzles Lib
-- Updated Repurposed Structures
-- Updated ScalableLux
-- Updated Starter Kit
-- Updated Tom's Simple Storage Mod
-- Updated Universal Graves
-- Updated Village Spawn Point
-
-Config:
--
+- Added When Dungeons Arise - Fabric! and Seven Seas
+- Added Dungeons and Taverns
+- Added AdventureZ
+- Added ChoiceTheorem's Overhauled Village
+- Added Mobs of Mythology
+- Added DnT Pillager Outpost, Ancient City and Swamp Hut Overhault
+- Added Mythic Upgrades
+- Added Sawmill
+- Added You're in Grave Danger
+- Added CrashExploitFixer
+- Added Mediumcore Gamemode
+- Added What Are They Up To (Watut)
+- Added Blended Compat
+- Added Faster Random
+- Added RPG Origins
+- Updated 83 mods
+- Removed Universal Graves
 
 Please let us know on Discord if you run into any issues
